@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http": "0.0.0",
+    "cheerio": "^0.18.0",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "colors": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
